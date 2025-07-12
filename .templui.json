@@ -1,0 +1,7 @@
+{
+  "componentsDir": "web/components",
+  "utilsDir": "utils",
+  "moduleName": "starter",
+  "jsDir": "assets/js",
+  "jsPublicPath": "/assets/js"
+}
